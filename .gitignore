@@ -1,0 +1,4 @@
+# when i upload the code to github i want it to ignore this files because i ,=might have sensitive information here
+.env
+# node modules i can install whenever i download the code from github
+node_modules
